@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1343313_app_pa_0.admin" name="x_1343313_app_pa_0.admin">108c4be693d1021016be398efaba107e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 17:04:28</sys_created_on>
+        <sys_id>908c4be693d1021016be398efaba107f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>108c4be693d1021016be398efaba107e</sys_name>
+        <sys_package display_value="App para visitantes da sua empresa" source="x_1343313_app_pa_0">c08c0be693d1021016be398efaba10fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App para visitantes da sua empresa">c08c0be693d1021016be398efaba10fb</sys_scope>
+        <sys_update_name>sys_embedded_help_role_908c4be693d1021016be398efaba107f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 17:04:28</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
